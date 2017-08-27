@@ -59,7 +59,7 @@ public class DailyLogin extends Main {
     }
 
     private void createNewPost() {
-        String postTitle = "Contributor Post Test";
+        String postTitle = "This post was generated automatically";
 
         this.getWebElementsHandler().clickElementOrFail(By.xpath(WordPressMenu.POSTS_MENU), "Cannot find item Posts in WordPress menu");
 

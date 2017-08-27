@@ -1,4 +1,4 @@
-package Main;
+package Common;
 
 import static org.junit.Assert.*;
 import org.openqa.selenium.WebDriver;

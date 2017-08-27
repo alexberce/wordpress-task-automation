@@ -1,6 +1,6 @@
 package Core;
 
-import Main.*;
+import Common.*;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.AfterClass;

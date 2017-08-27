@@ -1,4 +1,4 @@
-package Main;
+package Common;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
